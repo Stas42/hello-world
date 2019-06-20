@@ -1,7 +1,7 @@
 # hello-world
 hello-world repository
 
-My first 
+First 
 repository,
 branch, 
 commit 
